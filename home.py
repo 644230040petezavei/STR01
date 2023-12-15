@@ -79,7 +79,7 @@ if st.button("ทำนายผล"):
       #st.image("./pic/iris.jpg")
       st.header("Setosa")
    elif out[0]=="Versicolor":
-      #st.image("./pic/iris2.jpg")
+      #st.image("./pic/iris3.jpg")
       st.header("Versicolor")
    else:
       #st.image("./pic/iris1.jpg")  
